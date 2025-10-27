@@ -6,7 +6,6 @@ Fullstack developer
 
 I'm a web developer with strong experience working on SPA apps using VueJS, NodeJS, PHP, Laravel, Quasar Framework, AdonisJs and more. I have experience with hybrid apps with Cordova, I do this because I love it
 
-* 🌍  I'm based in 🇻🇪 Venezuela
 * ✉️  You can contact me at [elyohan14@gmail.com](mailto:elyohan14@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Interesting projects
